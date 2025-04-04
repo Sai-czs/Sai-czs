@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.pinimg.com/originals/57/4a/75/574a754d7e233561ed8e43e3bb2cfce7.gif" width="730" height="370" alt="Flor">  
+<img src="https://i.pinimg.com/originals/57/4a/75/574a754d7e233561ed8e43e3bb2cfce7.gif" width="537" height="273" alt="Flor">  
 
 <div align="center">
   
@@ -38,9 +38,8 @@
 
   <div align="center">
   
+<div align="center">
+  
 ![Snake animation](https://github.com/Sai-czs/Sai-czs/blob/output/github-contribution-grid-snake.svg)
 
-</div>
-
-  
 </div>
