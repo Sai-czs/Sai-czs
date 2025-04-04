@@ -36,10 +36,4 @@
 <div align="center">
 <img src="https://24.media.tumblr.com/34890facd6def1b3e9f7a6771068020b/tumblr_mkkdo2Gw7d1rfjowdo1_500.gif" width="500" height="500" alt="Totoro"> 
 
-  <div align="center">
-  
-<div align="center">
-  
-![Snake animation](https://github.com/Sai-czs/Sai-czs/blob/output/github-contribution-grid-snake.svg)
-
 </div>
