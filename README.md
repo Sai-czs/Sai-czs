@@ -15,7 +15,8 @@
 
 ---
 
-## **📚 Estudando Agora**
+## **📚 Estudando**
+<img src="https://devicon-website.vercel.app/api/css3/original.svg" width="40" height="40" alt="CSS3">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript">  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL">  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" height="40" alt="Figma">    
