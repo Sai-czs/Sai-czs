@@ -24,6 +24,7 @@
 ---
 
 ## **🚀 Interesses Futuros**
+<img src="https://devicon-website.vercel.app/api/ruby/original.svg" width="40" height="40" alt="Rubi">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript">  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React">  
