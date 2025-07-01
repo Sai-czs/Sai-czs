@@ -7,6 +7,8 @@
 
 ### *"Vivendo de filmes, livros, músicas e códigos 💻"*
 
+### *Graduanda em Sistema de Informação- CEFET/RJ*
+
 ---
 
 ## **🛠 Main Skills**  
