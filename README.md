@@ -1,112 +1,61 @@
-<div align="center">
-
-<img src="https://i.pinimg.com/originals/57/4a/75/574a754d7e233561ed8e43e3bb2cfce7.gif" width="540"/>
-
-# 👋 Olá, eu sou a Sabrina Siqueira
-
-### 💻 Desenvolvedora em formação | Sistemas de Informação • CEFET/RJ
-
-*"Vivendo de filmes, livros, músicas e códigos."*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](SEU_LINK)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)](SEU_LINK)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:SEU_EMAIL)
-
-</div>
-
----
-
-## ✨ Sobre mim
-
-🎓 Graduanda em Sistemas de Informação no **CEFET/RJ**
-
-💙 Apaixonada por desenvolvimento, UX e tecnologia
-
-🌱 Atualmente estudando **AWS** e aprofundando conhecimentos em desenvolvimento Full Stack.
-
-🚀 Construindo projetos para meu portfólio e sempre buscando aprender novas tecnologias.
-
----
-
-# 💻 Tecnologias
+# Hi, I'm Sabrina Siqueira 👋
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
-
+<i>今度は今度、今は今</i>
 </p>
 
----
+**Future Software Engineer**  
+B.S. Student in Information Systems @ CEFET/RJ
 
-# 📖 Atualmente estudando
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sabrina-siqueira-77a11b329/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel)](YOUR_PORTFOLIO_LINK)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail)](mailto:sabrina.siqueira0@gmail.com)
+
+## About
+
+- 🎓 Information Systems student at **CEFET/RJ**
+- 📜 Certified in **Full Stack Development (SERRATEC/SENAI)** and **Google UX Design**
+- 💻 Interested in Software Engineering, Full Stack Development and UX
+- 🌱 Currently building portfolio projects and improving my software development skills
+
+## Tech Stack
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40"/>
+</p>
+
+**Currently Learning**
+
+PHP • C# 
+
+**Interested In**
+
+C++ • AWS • Ruby
+
+## Featured Projects
+
+- **Invoice Management API** • REST API for invoice management.
+- **Letterfood** • Restaurant review platform.
+- **ASO Management System** • Occupational health certificate management system.
+
+## GitHub Stats
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="70"/>
-
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
-
----
-
-# 🎯 Próximos objetivos
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="45"/>
-
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 </p>
-
----
-
-# 🚀 Projetos em destaque
-
-📌 **Aplicativo para gerenciamento de faturas**
-
-Sistema web responsivo para pequenos empreendedores organizarem seus recebimentos.
-
-📌 **Missão das Runas**
-
-Jogo de RPG com puzzles envolvendo lógica, memória e programação.
-
-📌 **Swift Safety**
-
-Plataforma para monitoramento e notificação de desastres naturais.
-
----
-
-# 📊 GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://24.media.tumblr.com/34890facd6def1b3e9f7a6771068020b/tumblr_mkkdo2Gw7d1rfjowdo1_500.gif" width="350"/>
-
-*"Code, coffee and a little bit of Studio Ghibli magic."* 🌿
-
-</div>
